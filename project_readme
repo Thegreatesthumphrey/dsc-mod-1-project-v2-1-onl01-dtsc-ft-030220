@@ -1,7 +1,0 @@
-This project is designed to find trends in a database of over 1,000 titles, that indicate a high return on investment(ROI).
-
-Using the runtime data, we were able to find that movies between 80-140 minutes were more likely to generate a higher ROI.
-
-Using the release date data, we were able to find which months had higher rates of ROI (July and October), as well as likely competition within those months.
-
-Using the genre data, we were able to identify the top three genres with a high ROI (horror, mystery, and thriller).  Also interesting to note, is that these three genres are similiar and can easily be combined in one production. 
